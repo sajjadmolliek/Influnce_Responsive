@@ -307,7 +307,7 @@ footer p{
     /* Start Section_03 style */
     .section_03_img{
         display: grid;
-        grid-template-columns: repeat(1, 270px);
+        grid-template-columns: repeat(1, 250px);
     }
     /* End Section_03 Style */
     /* Start Section_04 Style */
@@ -431,7 +431,7 @@ footer p{
     /* Start Section_03 style */
     .section_03_img{
         display: grid;
-        grid-template-columns: repeat(1, 0px);
+        grid-template-columns: repeat(1, 250px);
     }
     /* End Section_03 Style */
     /* Start Section_04 Style */
