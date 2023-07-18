@@ -133,7 +133,7 @@ nav{
 width: 100%;
 }
 .section_03_img_txt h3{
-    font-weight: 500;
+    font-weight: 700;
     margin: 10px 0;
 }
 .section_03_img_txt p{
@@ -315,22 +315,27 @@ footer p{
         gap: 50px;
         flex-direction: column-reverse;
     }
+
+    .section_04_content{
+        text-align: center;
+        width: 100%;
+    }
     .section_04_img>img{
-        width: 80%;
+        width: 100%;
     }
     .section_04_content h1{
         color: var(--blc);
         font-size: 28px;
-        margin-left: 20px;
-        width: 80%;
+        /* margin-left: 20px; */
+        width: 100%;
     }
     .section_04_content p{
-        width: 80%;
+        width: 100%;
         height: 145px;
-        margin-left: 20px;
+        /* margin-left: 20px; */
     }
     .section_04_bttn{
-        margin-left: 20px;
+        margin-left: 35%;
     }
     /* End Section_04 Style */
     /* End Main Section style */
