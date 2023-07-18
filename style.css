@@ -141,6 +141,19 @@ width: 95%;
 margin: 10px 0;
 }
 /* End Section_03 style */
+/* Start SubSection style */
+.subsection{
+    color: var(--btn_clr);
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    gap: 10px;
+    margin-right: 22%;
+    margin-top: 30px;
+    font-weight: 700;
+    cursor: pointer;
+}
+/* End SubSection style */
 /* Start Section_04 style */
 .section_04{
     display: flex;
