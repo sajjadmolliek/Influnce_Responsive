@@ -300,7 +300,7 @@ footer p{
     /* Start Section_04 Style */
     .section_04{
         gap: 50px;
-        flex-direction: column;
+        flex-direction: column-reverse;
     }
     .section_04_img>img{
         width: 80%;
